@@ -1,0 +1,48 @@
+﻿<Properties StartupConfiguration="{AECE6C3E-C7C4-4DF6-B244-D121AE7B1DD5}|Default">
+  <MonoDevelop.Ide.ItemProperties.TelegramOrderingWebhook FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TelegramOrderingWebhook/Services/AmazonShoppingService.cs">
+    <Files>
+      <File FileName="TelegramOrderingWebhook/Controllers/OrderController.cs" Line="17" Column="10" />
+      <File FileName="TelegramOrderingWebhook/Services/IOrderCalculationService.cs" Line="7" Column="46" />
+      <File FileName="TelegramOrderingWebhook/Services/AmazonShoppingService.cs" Line="21" Column="1" />
+      <File FileName="TelegramOrderingWebhook/Models/HttpRequests/OrderRequest.cs" Line="11" Column="43" />
+      <File FileName="TelegramOrderingWebhook/Models/ProductModel.cs" Line="7" Column="28" />
+      <File FileName="TelegramOrderingWebhook/Startup.cs" Line="29" Column="77" />
+      <File FileName="TelegramOrderingWebhook/Services/AmazonShoppingTransformer.cs" Line="17" Column="49" />
+      <File FileName="TelegramOrderingWebhook.Tests/OrderControllerTest.cs" Line="35" Column="47" />
+      <File FileName="TelegramOrderingWebhook/Services/IOrderTransformer.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TelegramOrderingWebhook" expanded="True">
+            <Node name="TelegramOrderingWebhook" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="HttpRequests" expanded="True" />
+              </Node>
+              <Node name="Services" expanded="True">
+                <Node name="AmazonShoppingService.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="TelegramOrderingWebhook.Tests" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="TelegramOrderingWebhook" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

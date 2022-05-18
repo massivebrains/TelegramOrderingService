@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.20
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelegramOrderingWebhook", "TelegramOrderingWebhook\TelegramOrderingWebhook.csproj", "{AECE6C3E-C7C4-4DF6-B244-D121AE7B1DD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelegramOrderingWebhook.Tests", "TelegramOrderingWebhook.Tests\TelegramOrderingWebhook.Tests.csproj", "{73B8A501-D2FC-4529-AC22-98A60AE23FC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AECE6C3E-C7C4-4DF6-B244-D121AE7B1DD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AECE6C3E-C7C4-4DF6-B244-D121AE7B1DD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AECE6C3E-C7C4-4DF6-B244-D121AE7B1DD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AECE6C3E-C7C4-4DF6-B244-D121AE7B1DD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73B8A501-D2FC-4529-AC22-98A60AE23FC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73B8A501-D2FC-4529-AC22-98A60AE23FC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73B8A501-D2FC-4529-AC22-98A60AE23FC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73B8A501-D2FC-4529-AC22-98A60AE23FC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44CC9162-DB93-481C-B8F6-0ADDAC0BB55F}
+	EndGlobalSection
+EndGlobal
